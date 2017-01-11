@@ -1,7 +1,7 @@
 # AlphaDirectory
 Visual directory of all unique websites &amp; web apps on SAFE Network Alpha
 
-View it live with SAFE Launcher & Browser at <a href="http://bit.do/AlphaDirectory">bit.do/AlphaDirectory</a>
+View it live here (use Launcher too): <a href="http://bit.do/AlphaDirectory">bit.do/AlphaDirectory</a>
 
 Looks like Yvette has been too busy to update the directory, so I'm helping :)
 
